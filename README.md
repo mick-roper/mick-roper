@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with machine learning, genetic algorithms and block chain.
 - 💬 Ask me about: SRE, cloud, devops, Golang, Rust
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/mick-roper/)
-- 😄 Pronouns: his/him
-- ⚡ Fun fact: I was once chased up a tree by a disbruntled cow!
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I was once chased up a tree by a tonne of angry beef!
